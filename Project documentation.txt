@@ -1,0 +1,14 @@
+Frontend:
+
+Create a main application "office" and created two microfrontend applications (company-application and employee-application). In company-application and employee-application user can perform the CRUD operation.
+
+Please check the "Read me" file to run the application.
+
+Backend:
+Created two microservices company-microservice and employee-microservice and created an API gateway application that act as a mediator between the microservices and frontend application
+
+Please check the "Read me" file to run all the application.
+
+
+
+ 
